@@ -8,3 +8,5 @@ dupa1234
 **DRUGA ZMIANA**
 
 **trzecia zmiana po pierwszej nie zapisałem**
+
+4 zmiana 
