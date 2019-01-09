@@ -9,4 +9,6 @@ dupa1234
 
 **trzecia zmiana po pierwszej nie zapisałem**
 
-4 zmiana 
+4 zmiana
+
+ciekawe ile commitow sie zrobilo
