@@ -7,3 +7,6 @@ Format("C");
 
 
 dla gunwo
+
+drobna poprawka, bo kiepsko działało
+int = 1;
