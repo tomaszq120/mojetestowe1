@@ -17,3 +17,5 @@ ciekawe ile commitow sie zrobilo
 stworzylem se manuala
 
 KOMIT Z AMEDEM
+
+for ()
