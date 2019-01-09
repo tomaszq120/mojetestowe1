@@ -12,3 +12,8 @@ dupa1234
 4 zmiana
 
 ciekawe ile commitow sie zrobilo
+
+
+stworzylem se manuala
+
+KOMIT Z AMEDEM
