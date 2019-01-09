@@ -4,3 +4,6 @@ for (int i = 0; i < 100; i_++)
 }
 
 Format("C");
+
+
+dla gunwo
